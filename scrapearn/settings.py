@@ -153,6 +153,6 @@ MESSAGE_TAGS = {
 
 EMAIL_HOST = config('EMAIL_HOST')
 EMAIL_PORT = config('EMAIL_PORT', cast=int)
-EMAIL_HOST_USER = 'scrapearnera@gmail.com'
-EMAIL_HOST_PASSWORD = 'Scr@p1122'
+EMAIL_HOST_USER = 'demomail@gmail.com'
+EMAIL_HOST_PASSWORD = 'DemoPass'
 EMAIL_USE_TLS = config('EMAIL_USE_TLS', cast=bool)
